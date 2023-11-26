@@ -1,0 +1,11 @@
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll

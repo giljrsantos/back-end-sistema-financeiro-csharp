@@ -1,0 +1,15 @@
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.dll
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.pdb
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CursoCertificado\ValdirFerreira\projetoFinanceiro\backEnd\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
