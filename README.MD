@@ -1,6 +1,6 @@
-# BACK END - Sistema Financeiro
+# BACK-END - Sistema Financeiro
 
-Back End desenvolvido em C#. NET 7. E todos os pacotes instalados durante o curso são e versão 7.0.3.
+Back-End desenvolvido em C#. NET 7. E todos os pacotes instalados durante o curso são e versão 7.0.3.
 
 O Projeto foi desenvolvido com referencias nos seguintes livros:
 
